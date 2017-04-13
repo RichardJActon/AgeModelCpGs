@@ -1,5 +1,5 @@
 {
-	"file": "/home/richardjacton/Documents/PhD_Stuff/phd/Projects/GeneralAgingDNAm/test.csv",
+	"file": "https://raw.githubusercontent.com/RichardJActon/AgeModelCpGs/master/test.csv",
 	"name": "Test",
 	"header": 0,
 	"separator": ";",
