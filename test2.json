@@ -1,6 +1,6 @@
 {
-	"file": "https://raw.githubusercontent.com/RichardJActon/AgeModelCpGs/master/Ttable_N.csv",
-	"name": "Test",
+	"file": "https://raw.githubusercontent.com/RichardJActon/AgeModelCpGs/master/Ttable_N_all.csv",
+	"name": "Age CpGs",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
